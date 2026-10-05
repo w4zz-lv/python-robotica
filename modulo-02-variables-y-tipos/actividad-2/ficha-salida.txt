@@ -1,0 +1,5 @@
+nombre Mastoideo <class 'str'>
+ruedas 4 <class 'int'>
+diametro_ruedas 3.33 <class 'float'>
+bateria 99 <class 'int'>
+encendido True <class 'bool'>
