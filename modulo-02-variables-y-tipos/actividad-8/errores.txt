@@ -1,5 +1,10 @@
-Traceback (most recent call last):
+1. Traceback (most recent call last):
   File "c:\Users\LEONARDOPABLOVIGOGRA\Documents\GitHub\python-robotica\modulo-02-variables-y-tipos\actividad-8\depuracion.py", line 5, in <module>
     print("nombre_robot", nombrerobot)
                           ^^^^^^^^^^^
 NameError: name 'nombrerobot' is not defined. Did you mean: 'nombre_robot'?
+
+2.  File "c:\Users\LEONARDOPABLOVIGOGRA\Documents\GitHub\python-robotica\modulo-02-variables-y-tipos\actividad-8\depuracion.py", line 6
+    print("distancia_texto" distancia_texto)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
