@@ -1,0 +1,5 @@
+nombre mastoideo <class 'str'>
+anio 20 <class 'int'>
+altura_cm 15.5 <class 'float'>
+autonomo True <class 'bool'>
+VERSION_ESPERADA v1.3 <class 'str'>
