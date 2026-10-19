@@ -8,3 +8,8 @@ NameError: name 'nombrerobot' is not defined. Did you mean: 'nombre_robot'?
     print("distancia_texto" distancia_texto)
           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 SyntaxError: invalid syntax. Perhaps you forgot a comma?
+
+3.  File "c:\Users\LEONARDOPABLOVIGOGRA\Documents\GitHub\python-robotica\modulo-02-variables-y-tipos\actividad-8\depuracion.py", line 7
+    print "robot_encendido", robot_encendido
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
