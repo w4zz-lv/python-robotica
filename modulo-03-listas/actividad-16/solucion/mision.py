@@ -1,0 +1,24 @@
+sensores = ["ultrasonidos", "infrarrojos", "luz"]
+distancias = [40, 12, 80]
+print(sensores)
+print(distancias)
+
+sensores.append("presencia")
+distancias.append(5)
+print(sensores)
+print(distancias)
+
+sensores.remove("luz")
+distancias.remove(80)
+print(sensores)
+print(distancias)
+
+print(len(sensores))
+print(len(distancias))
+
+ordenadas = sorted(distancias)
+
+print(distancias[0])
+print(distancias[-1])
+
+print(sensores[0:2])
